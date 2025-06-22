@@ -18,7 +18,7 @@ html{
 
 main{
     background: hsl(0, 0%, 12%);
-    padding: clamp(1.5em, 100%, 2.5rem);
+    padding: clamp(1.45rem, 3vw, 2.5rem);
     width: 19rem;
     height: max-content;
     border-radius: .7em;
